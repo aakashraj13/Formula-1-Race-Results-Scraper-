@@ -7,3 +7,7 @@
 - BeautifulSoup: A Python library for parsing HTML and extracting data from web pages.
 - Requests: A simple HTTP library for making requests to the Formula 1 website and fetching the page data.
 - Pandas: A powerful data manipulation and analysis library used to store the scraped data in a structured tabular format (DataFrame).
+## Dataset 
+  The data for this web scraping project is sourced from:
+  - **Dataset Link:** [f1 dataset](https://www.formula1.com/en/results/2024/races)
+    
